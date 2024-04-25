@@ -1,6 +1,7 @@
 <html>
   <body> 
 <h1>Odin Recipes </h1>
-<a href ="images.jpeg">
+<a href ="https://github.com/Mortal5631/recipes.git">
+  
   </body>
   </html>
