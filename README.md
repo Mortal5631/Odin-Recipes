@@ -1,2 +1,2 @@
 <h1>Odin Recipes </h1>
-<a href="recipes/recipename.html">Recipe Title</a>
+<a href="file:///C:/Users/user/Desktop/Project/recipes.html">Recipe Title</a>
